@@ -1,8 +1,10 @@
-# Ecommerce
+# Ecommerce Compose Multiplatform
 
-This app was designed and exported entirely via [Paper](https://builtwithpaper.com).
+This app was designed and exported entirely via Paper.
 
-No code was written by hand.
+No code was written by hand. You can [customize this app by clicking here](https://builtwithpaper.com/app/?app_template=ecommerce).
+
+![Preview](/assets/hero.jpeg)
 
 ## Project Structure
 
@@ -10,14 +12,8 @@ There are 3 important folders in `composeApp/src`:
 
 - commonMain: Contains the shared sourceSet across all targets. This is where your designs live.
 - androidMain: Contains Android specific theming, such as the Material RippleEffect.
-- iosMain: iOS specific theming such as the light highlight. 
+- iosMain: iOS specific theming such as the light highlight.
 
 ## Supported Targets
 
 Paper currently exports to iOS and Android
-
----
-
-[Edit this app live from your browser by clicking here](https://builtwithpaper.com/app/?app_template=ecommerce).
-
-Try Paper for yourself for free at [https://builtwithpaper.com](https://builtwithpaper.com).
